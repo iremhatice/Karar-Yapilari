@@ -4,4 +4,5 @@
             -Kendisine ait bir indexleme mekanizması ile gerçekleştirir.O nedenle yüzlerce koşulumuz olsa bile direkt olarak doğru koşula gider.Bu da performansı doğrudan etkiler. 
             -Switch bloğu içerisine yazdığınız veri tipiniz ne ise case(durum)olarak belirttiğiniz tüm veriler de aynı veri tipi olmalıdır.
             -break => Koşul sağlandı,artık karar yapısından kendini dışarı atabilirsin.
+            
 **TernaryIf :** (Satır iç ıf) kulllanımı,bildiğimiz if ifadesinin daha basit kullanımıdır.Genellikle bir koşulun sonucuna bağlı olarak bir değişkene bir değer atamak istediğimizde kullanılır.
